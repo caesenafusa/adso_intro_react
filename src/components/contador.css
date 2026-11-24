@@ -1,0 +1,18 @@
+.contenedor{
+    width: 50%;
+    height: 50%;
+    background: aqua;
+    border: 1px solid blue;   
+    margin: 0 auto;
+
+}
+.contenedor h1{
+    font-size: 3rem;;
+}
+
+.contenedor button{
+font-size: 2rem;
+margin: 10px;
+padding: 1.5rem;
+border-radius: 100%;
+}
